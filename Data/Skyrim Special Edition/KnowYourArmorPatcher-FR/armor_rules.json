@@ -1,0 +1,494 @@
+{
+    "ArmorBrigand1": [
+        "warm"
+    ],
+    "ArmorBrigand2": [
+        "leathery"
+    ],
+    "ArmorBrigand3": [
+        "metal",
+        "thick"
+    ],
+    "ArmorBrigand4": [
+        "leathery"
+    ],
+    "ArmorBrigand5": [
+        "metal",
+        "leathery"
+    ],
+    "ArmorBrigand6": [
+        "warm",
+        "leathery"
+    ],
+    "ArmorBrigand7": [
+        "leathery"
+    ],
+    "ArmorBrigand8": [
+        "warm",
+        "leathery"
+    ],
+    "ArmorBrigand9": [
+        "warm",
+        "thick"
+    ],
+    "ArmorBrigand10": [
+        "metal",
+        "warm",
+        "thick"
+    ],
+    "ArmorBrigand11": [
+        "metal",
+        "leathery"
+    ],
+    "ArmorBrigand12": [
+        "metal",
+        "deep"
+    ],
+    "ArmorBrigand13": [
+        "metal",
+        "leathery"
+    ],
+    "ArmorBrigand14": [
+        "leathery"
+    ],
+    "ArmorBrigand15": [
+        "warm"
+    ],
+    "ArmorBrigand16": [
+        "warm",
+        "leathery"
+    ],
+    "ArmorBrigand17": [
+        "leathery"
+    ],
+    "ArmorBrigand18": [
+        "warm"
+    ],
+    "ArmorBrigand19": [
+        "warm",
+        "thick"
+    ],
+    "ArmorBrigand20": [
+        "metal",
+        "thick"
+    ],
+    "ArmorBrigand21": [
+        "warm",
+        "metal",
+        "thick"
+    ],
+    "ArmorBrigand22": [
+        "leathery"
+    ],
+    "ArmorBrigand23": [
+        "warm"
+    ],
+    "ArmorBrigand24": [
+        "warm"
+    ],
+    "ArmorBrigand25": [
+        "leathery"
+    ],
+    "ArmorBrigand26": [
+        "leathery"
+    ],
+    "ArmorBrigand27": [
+        "leathery"
+    ],
+    "ArmorBrigand28": [
+        "leathery"
+    ],
+    "ArmorBrigand29": [
+        "warm",
+        "leathery"
+    ],
+    "ArmorBrigand30": [
+        "warm",
+        "leathery",
+        "layered"
+    ],
+    "ArmorBrigand31": [
+        "metal"
+    ],
+    "ArmorBrigand32": [
+        "metal",
+        "thick"
+    ],
+    "ArmorBrigand33": [
+        "leathery"
+    ],
+    "ArmorBrigand34": [
+        "metal"
+    ],
+    "ArmorBrigand35": [
+        "leathery"
+    ],
+    "ArmorBrigand36": [
+        "metal",
+        "thick"
+    ],
+    "FFPAAPaladinCuirass": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassNOENCH": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassBlack": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassWhite": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassBlackNOENCH": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassWhiteNOENCH": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassL": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassNOENCHL": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassBlackL": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassWhiteL": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassBlackNOENCHL": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassWhiteNOENCHL": [
+        "nonconductive",
+        "deep"
+    ],
+    "FFPAAPaladinCuirassNPC": [
+        "nonconductive",
+        "deep"
+    ],
+    "DBArmorWorn": [
+        "leathery"
+    ],
+    "DBArmorWornPlayable": [
+        "leathery"
+    ],
+    "DBArmorSP": [
+        "leathery"
+    ],
+    "DBArmorShortSleeve": [
+        "leathery"
+    ],
+    "DBArmor": [
+        "leathery"
+    ],
+    "ArmorThievesGuildLeaderCuirass": [
+        "leathery"
+    ],
+    "ArmorThievesGuildLeaderCuirassMercer": [
+        "leathery"
+    ],
+    "ArmorLinweCuirass": [
+        "leathery"
+    ],
+    "ArmorSummersetShadowsGuildCuirass": [
+        "leathery"
+    ],
+    "ArmorThievesGuildKarliahCuirass": [
+        "leathery"
+    ],
+    "ArmorTsunCuirass": [
+        "leathery"
+    ],
+    "ArmorThievesGuildCuirass": [
+        "leathery"
+    ],
+    "DLC2TGArmorVariantCuirass": [
+        "leathery"
+    ],
+    "ArmorThievesGuildVariantCuirass": [
+        "leathery"
+    ],
+    "ArmorNightingale": [
+        "leathery",
+        "layered"
+    ],
+    "ArmorGuardCuirassSolitude": [
+        "leathery"
+    ],
+    "ArmorGuardCuirassFalkreath": [
+        "leathery"
+    ],
+    "ArmorGuardCuirassHjaalmarch": [
+        "leathery"
+    ],
+    "ArmorGuardCuirassMarkarth": [
+        "leathery"
+    ],
+    "ArmorGuardCuirassRiften": [
+        "leathery"
+    ],
+    "ArmorGuardCuirassThePale": [
+        "leathery"
+    ],
+    "ArmorGuardCuirassWhiterun": [
+        "leathery"
+    ],
+    "ArmorGuardCuirassWinterhold": [
+        "leathery"
+    ],
+    "DLC2WordBurnedInChestAfter": [
+        "warm",
+        "thick"
+    ],
+    "DLC2WordBurnedInChest": [
+        "warm",
+        "thick"
+    ],
+    "DLC2HMKillsMiraak": [
+        "warm",
+        "thick"
+    ],
+    "ArmorBanditCuirass": [
+        "warm"
+    ],
+    "ArmorBanditCuirass1": [
+        "warm"
+    ],
+    "ArmorBanditCuirass2": [
+        "warm"
+    ],
+    "ArmorBanditCuirass3": [
+        "warm"
+    ],
+    "ArmorMaterialBearStormcloak": [
+        "warm",
+        "leathery",
+        "layered"
+    ],
+    "ArmorMaterialBlades": [
+        "metal",
+        "layered"
+    ],
+    "ArmorMaterialDaedric": [
+        "nonconductive",
+        "thick"
+    ],
+    "ArmorMaterialDragonplate": [
+        "nonconductive",
+        "thick",
+        "deep"
+    ],
+    "ArmorMaterialDragonscale": [
+        "nonconductive",
+        "layered",
+        "thick"
+    ],
+    "ArmorMaterialDwarven": [
+        "metal",
+        "deep"
+    ],
+    "ArmorMaterialEbony": [
+        "nonconductive",
+        "deep"
+    ],
+    "ArmorMaterialElven": [
+        "nonconductive",
+        "layered"
+    ],
+    "ArmorMaterialElvenGilded": [
+        "nonconductive",
+        "layered"
+    ],
+    "ArmorMaterialFalmer": [
+        "thick",
+        "nonconductive"
+    ],
+    "DLC1ArmorMaterielFalmerHeavyOriginal": [
+        "thick",
+        "nonconductive"
+    ],
+    "ArmorMaterialForsworn": [
+        "warm"
+    ],
+    "ArmorMaterialGlass": [
+        "thick",
+        "nonconductive"
+    ],
+    "ArmorMaterialHide": [
+        "leathery"
+    ],
+    "ArmorMaterialImperialHeavy": [
+        "metal",
+        "layered"
+    ],
+    "ArmorMaterialImperialLight": [
+        "leathery",
+        "layered"
+    ],
+    "ArmorMaterialImperialStudded": [
+        "leathery",
+        "layered"
+    ],
+    "ArmorMaterialIron": [
+        "metal",
+        "thick"
+    ],
+    "ArmorMaterialIronBanded": [
+        "metal",
+        "warm",
+        "thick"
+    ],
+    "ArmorMaterialLeather": [
+        "leathery",
+        "layered"
+    ],
+    "ArmorMaterialMS02Forsworn": [
+        "warm"
+    ],
+    "ArmorMaterialOrcish": [
+        "metal",
+        "layered"
+    ],
+    "ArmorMaterialPenitus": [
+        "metal",
+        "layered"
+    ],
+    "ArmorMaterialScaled": [
+        "warm",
+        "leathery",
+        "layered"
+    ],
+    "ArmorMaterialSteel": [
+        "metal",
+        "warm",
+        "thick"
+    ],
+    "ArmorMaterialSteelPlate": [
+        "metal",
+        "deep"
+    ],
+    "ArmorMaterialStormcloak": [
+        "leathery"
+    ],
+    "ArmorMaterialStudded": [
+        "leathery",
+        "layered"
+    ],
+    "ArmorMaterialThievesGuild": [
+        "leathery"
+    ],
+    "ArmorMaterialThievesGuildLeader": [
+        "leathery"
+    ],
+    "DLC1ArmorMaterialDawnguard": [
+        "leathery",
+        "layered"
+    ],
+    "DLC1ArmorMaterialFalmerHardened": [
+        "thick",
+        "nonconductive"
+    ],
+    "DLC1ArmorMaterialHunter": [
+        "layered",
+        "leathery"
+    ],
+    "DLC1ArmorMaterielFalmerHeavy": [
+        "nonconductive"
+    ],
+    "DLC1ArmorMaterialFalmerHeavyOriginal": [
+        "nonconductive"
+    ],
+    "DLC2ArmorMaterialBonemoldHeavy": [
+        "thick",
+        "nonconductive"
+    ],
+    "DLC2ArmorMaterialBonemoldLight": [
+        "thick",
+        "nonconductive"
+    ],
+    "DLC2ArmorMaterialChitinHeavy": [
+        "thick",
+        "nonconductive"
+    ],
+    "DLC2ArmorMaterialChitinLight": [
+        "thick",
+        "nonconductive"
+    ],
+    "DLC2ArmorMaterialMoragTong": [
+        "thick",
+        "nonconductive"
+    ],
+    "DLC2ArmorMaterialNordicHeavy": [
+        "metal",
+        "leathery",
+        "layered"
+    ],
+    "DLC2ArmorMaterialNordicLight": [
+        "metal",
+        "leathery",
+        "layered"
+    ],
+    "DLC2ArmorMaterialStalhrimHeavy": [
+        "thick",
+        "warm",
+        "nonconductive"
+    ],
+    "DLC2ArmorMaterialStalhrimLight": [
+        "thick",
+        "warm",
+        "nonconductive"
+    ],
+    "AA00ArmorDECuirass": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass1": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass2": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass3": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass4": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass5": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass6": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass7": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass8": [
+        "metal",
+        "deep"
+    ],
+    "AA00ArmorDFGKCuirass9": [
+        "metal",
+        "deep"
+    ]
+}

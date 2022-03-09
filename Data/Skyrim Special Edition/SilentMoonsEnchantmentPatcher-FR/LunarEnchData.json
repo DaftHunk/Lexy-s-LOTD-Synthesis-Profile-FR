@@ -1,0 +1,204 @@
+{
+  "LunarDamage": {
+    "BasePts": 300,
+    "LevelPts": 200,
+    "edidMod": "Lunar",
+    "tiers": [
+      {
+        "id": 1,
+        "prefix": "",
+        "suffix": "des rayons de lune",
+        "levelMod": {
+          "0": 3,
+          "1": 1,
+          "2": 0
+        }
+      },
+      {
+        "id": 2,
+        "prefix": "",
+        "suffix": "lunaire inférieure",
+        "levelMod": {
+          "1": 3,
+          "2": 1,
+          "3": 0
+        }
+      },
+      {
+        "id": 3,
+        "prefix": "",
+        "suffix": "lunaire",
+        "levelMod": {
+          "1": 6,
+          "2": 3,
+          "3": 1,
+          "4": 0
+        }
+      },
+      {
+        "id": 4,
+        "prefix": "",
+        "suffix": "de Secunda",
+        "levelMod": {
+          "2": 6,
+          "3": 3,
+          "4": 1,
+          "5": 0
+        }
+      },
+      {
+        "id": 5,
+        "prefix": "",
+        "suffix": "de Masser",
+        "levelMod": {
+          "3": 6,
+          "4": 3,
+          "5": 0
+        }
+      },
+      {
+        "id": 6,
+        "prefix": "",
+        "suffix": "de l'éclipse",
+        "levelMod": {
+          "4": 6,
+          "5": 3
+        }
+      }
+    ]
+  },
+  "LunarDamagePlus": {
+    "BasePts": 300,
+    "LevelPts": 200,
+    "edidMod": "LunarPlus",
+    "tiers": [
+      {
+        "id": 1,
+        "prefix": "",
+        "suffix": "éveillé des rayons de lune",
+        "levelMod": {
+          "0": 3,
+          "1": 1,
+          "2": 0
+        }
+      },
+      {
+        "id": 2,
+        "prefix": "",
+        "suffix": "éveillé inférieur",
+        "levelMod": {
+          "1": 3,
+          "2": 1,
+          "3": 0
+        }
+      },
+      {
+        "id": 3,
+        "prefix": "",
+        "suffix": "lunaire éveillé",
+        "levelMod": {
+          "1": 6,
+          "2": 3,
+          "3": 1,
+          "4": 0
+        }
+      },
+      {
+        "id": 4,
+        "prefix": "",
+        "suffix": "éveillé de Secunda",
+        "levelMod": {
+          "2": 6,
+          "3": 3,
+          "4": 1,
+          "5": 0
+        }
+      },
+      {
+        "id": 5,
+        "prefix": "",
+        "suffix": "éveillé de Masser",
+        "levelMod": {
+          "3": 6,
+          "4": 3,
+          "5": 0
+        }
+      },
+      {
+        "id": 6,
+        "prefix": "",
+        "suffix": "éveillé de l'éclipse",
+        "levelMod": {
+          "4": 6,
+          "5": 3
+        }
+      }
+    ]
+  },
+  "LunarAbsorbHealth": {
+    "BasePts": -100,
+    "LevelPts": 400,
+    "edidMod": "LunarAbsorb",
+    "tiers": [
+      {
+        "id": 1,
+        "prefix": "",
+        "suffix": "de la faim nocturne",
+        "levelMod": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      {
+        "id": 2,
+        "prefix": "",
+        "suffix": "de drain de la nuit",
+        "levelMod": {
+          "1": 0,
+          "2": 1
+        }
+      },
+      {
+        "id": 3,
+        "prefix": "",
+        "suffix": "lunaire d'absorption",
+        "levelMod": {
+          "1": 0,
+          "2": 3,
+          "3": 1,
+          "4": 0
+        }
+      },
+      {
+        "id": 4,
+        "prefix": "",
+        "suffix": "lunaire d'ingestion",
+        "levelMod": {
+          "2": 6,
+          "3": 3,
+          "4": 1
+        }
+      },
+      {
+        "id": 5,
+        "prefix": "",
+        "suffix": "dévorante des lunes",
+        "levelMod": {
+          "3": 6,
+          "4": 3,
+          "5": 0
+        }
+      },
+      {
+        "id": 6,
+        "prefix": "",
+        "suffix": "éclipsante du vampire",
+        "levelMod": {
+          "4": 7,
+          "5": 3
+        }
+      }
+    ]
+  }
+}

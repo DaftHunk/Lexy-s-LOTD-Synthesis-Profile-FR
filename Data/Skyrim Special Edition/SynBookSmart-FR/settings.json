@@ -1,0 +1,9 @@
+{
+  "labelPosition": "Avant",
+  "labelFormat": "Long",
+  "encapsulatingCharacters": "Crochets",
+  "addSkillLabels": true,
+  "addMapMarkerLabels": true,
+  "addQuestLabels": true,
+  "assumeBookScriptsAreQuests": false
+}

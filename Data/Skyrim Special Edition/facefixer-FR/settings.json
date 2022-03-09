@@ -1,0 +1,23 @@
+{
+  "TargetMods": [
+    "NPC Retexture Merge SSE.esp",
+    "RSChildren.esp",
+    "RS Children Patches Merged.esp",
+    "LegacyoftheDragonborn - NPC Overhaul.esp"
+  ],
+  "PrioritizeBySpecifiedOrder": true,
+  "PatchAttackRace": true,
+  "PatchDefaultOutfit": false,
+  "PatchFaceMorph": true,
+  "PatchFaceParts": true,
+  "PatchFarAwayModel": true,
+  "PatchHairColor": true,
+  "PatchHeadParts": true,
+  "PatchHeadTexture": true,
+  "PatchHeight": true,
+  "PatchSleepingOutfit": false,
+  "PatchTextureLighting": true,
+  "PatchTintLayers": true,
+  "PatchWeight": true,
+  "PatchWornArmor": true
+}
