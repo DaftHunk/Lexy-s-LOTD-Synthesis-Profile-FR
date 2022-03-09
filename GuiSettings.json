@@ -1,0 +1,11 @@
+{
+  "ShowHelp": true,
+  "OpenIdeAfterCreating": true,
+  "Ide": "SystemDefault",
+  "MainRepositoryFolder": "",
+  "SelectedProfile": "2bb878d8-510a-4adb-bb95-00e8a35c3d60",
+  "WorkingDirectory": "",
+  "BuildCorePercentage": 0.5,
+  "DotNetPathOverride": "",
+  "ShowAllGitPatchersInBrowser": false
+}
